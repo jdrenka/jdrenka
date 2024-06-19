@@ -19,7 +19,7 @@
 
 
 
-#### University of British Columbia: *Bsc. Computer Science 2021 - 2025* 
+### University of British Columbia: *Bsc. Computer Science 2021 - 2025* 
 
 ### Interest areas and strengths
 - Server Programming

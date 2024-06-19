@@ -22,9 +22,9 @@
 
 ### Interest areas and strengths
 - Server Programming
-- Network communication methods
 - Database design, app integration
 - Application of Machine Learning models and training
+- Network data communication methods
 - UI, UX design
   
   

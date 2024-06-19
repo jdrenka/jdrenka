@@ -26,6 +26,7 @@
 - Database design, app integration
 - Application of Machine Learning models and training models effectivley
 - Data pipelining, Data manipulation, Application of Data, Data Analysis
+- CI/CD Methods deploying fullstack web apps to cloud services utilizing HTTPS security
 - Network communication methods
 - UI, UX design
   

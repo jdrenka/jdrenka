@@ -29,6 +29,8 @@
 - CI/CD Methods deploying fullstack web apps to cloud services utilizing HTTPS security
 - Network communication methods
 - UI, UX design
+
+### Check out my projects!
   
   
   

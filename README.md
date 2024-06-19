@@ -20,6 +20,16 @@
 
 #### University of British Columbia: *Bsc. Computer Science 2021 - 2025* 
 
+### Interest areas and strengths
+- Server Programming
+- Network communication methods
+- Database design, app integration
+- Application of Machine Learning models and training
+- UI, UX design
+  
+  
+  
+
 
 
 

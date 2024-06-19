@@ -28,9 +28,9 @@
 - Data pipelining, Data manipulation, Application of Data, Data Analysis
 - CI/CD Methods deploying fullstack web apps to cloud services utilizing HTTPS security
 - Network communication methods
-- UI, UX design
+- UI, UX design<br>
 
-###
+
 
 ### Check out my projects!
   

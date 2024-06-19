@@ -44,4 +44,4 @@
 <br/>
 ----
 
-|  Website & Gallery : [https://placeholder](https://placeholder) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</sub>
+|  Website & Gallery : [https://placeholder](https://placeholder) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Contact me at: jpdrenka@gmail.com </sub>

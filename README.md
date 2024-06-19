@@ -30,7 +30,7 @@
 - Network communication methods
 - UI, UX design
 
-<br>
+
 ### Check out my projects!
   
   

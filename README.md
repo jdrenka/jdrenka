@@ -25,6 +25,7 @@
 - Server Programming
 - Database design, app integration
 - Application of Machine Learning models and training models effectivley
+- Data pipelining, Data manipulation, Application of Data, Data Analysis
 - Network data communication methods
 - UI, UX design
   

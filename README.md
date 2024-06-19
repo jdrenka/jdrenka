@@ -18,7 +18,15 @@
 ![worksat](https://img.shields.io/static/v1?label=&message=@:&color=111&style=flat-square)
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=111&logoColor=FF0000&style=flat-square)
 
-<h4>University of British Columbia, Bsc. Computer Science <small><em style="font-size: 10px;">2021 - 2025</em></small></h4>
+<style>
+    .small-text {
+        font-size: 10px;
+    }
+</style>
+
+<h4>University of British Columbia, Bsc. Computer Science <span class="small-text"><em>2021 - 2025</em></span></h4>
+
+
 
 
 

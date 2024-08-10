@@ -1,4 +1,4 @@
-## Hey, I'm Justin! &nbsp;&nbsp;<sup>  &#12299; Enthusiastic about developing innovative webapps</sup>
+## Justin Drenka &nbsp;&nbsp;<sup>  &#12299; Developing innovative webapps</sup>
 
 ----
 

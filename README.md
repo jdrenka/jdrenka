@@ -1,9 +1,6 @@
 ## Justin Drenka &nbsp;&nbsp;<sup>  &#12299; Developing innovative webapps</sup>
 
 ----
-
-### University of British Columbia: *Bsc. Computer Science 2021 - 2025* 
-
 ### Interest areas and strengths
 - Server programming
 - Database design, app integration

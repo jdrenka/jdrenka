@@ -1,4 +1,4 @@
-## Justin Drenka &nbsp;&nbsp;<sup>  &#12299; Developing innovative webapps</sup>
+## Justin Drenka &nbsp;&nbsp;
 
 ----
 ### Interest areas and strengths
